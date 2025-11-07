@@ -3,6 +3,10 @@
 
 This is a simple Flask app that interacts with a MySQL database. The app allows users to submit messages, which are then stored in the database and displayed on the frontend.
 
+# Project Architecture
+
+<img width="972" height="339" alt="image" src="https://github.com/user-attachments/assets/d18537bd-20db-4298-a436-4d3c1a588628" />
+
 ## Prerequisites
 
 Before you begin, make sure you have the following installed:
@@ -127,4 +131,5 @@ docker run -d \
 - If you encounter issues, check Docker logs and error messages for troubleshooting.
 
 ```
+
 
